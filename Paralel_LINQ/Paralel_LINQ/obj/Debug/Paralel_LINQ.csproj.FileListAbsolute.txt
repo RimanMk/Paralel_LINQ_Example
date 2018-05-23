@@ -1,0 +1,7 @@
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\bin\Debug\Paralel_LINQ.exe.config
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\bin\Debug\Paralel_LINQ.exe
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\bin\Debug\Paralel_LINQ.pdb
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\obj\Debug\Paralel_LINQ.csprojAssemblyReference.cache
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\obj\Debug\Paralel_LINQ.csproj.CoreCompileInputs.cache
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\obj\Debug\Paralel_LINQ.exe
+D:\SoftServe\Програми\Paralel_LINQ\Paralel_LINQ\obj\Debug\Paralel_LINQ.pdb
